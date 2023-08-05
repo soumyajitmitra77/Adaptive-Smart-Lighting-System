@@ -10,6 +10,7 @@ Components needed:
 5. Relay
 6. HC-05 Bluetooth module
 
+Following is the circuit diagram for the set up:
 
 <img width="849" alt="Screenshot 2023-08-05 at 11 53 32" src="https://github.com/soumyajitmitra77/Adaptive-Smart-Lighting-System/assets/104454276/f9c0e375-9592-4f1d-a7c5-3660bb3f86f1">
 
