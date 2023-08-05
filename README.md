@@ -11,6 +11,6 @@ Components needed:
 6. HC-05 Bluetooth module
 
 
+<img width="849" alt="Screenshot 2023-08-05 at 11 53 32" src="https://github.com/soumyajitmitra77/Adaptive-Smart-Lighting-System/assets/104454276/f9c0e375-9592-4f1d-a7c5-3660bb3f86f1">
 
-[[https://github.com/soumyajitmitra77/Adaptive-Smart-Lighting-System/blob/b4be483658e661ceaa58de7149a8772c448cd170/Screenshot%202023-08-05%20at%2011.53.32.png](https://github.com/soumyajitmitra77/Adaptive-Smart-Lighting-System/blob/b4be483658e661ceaa58de7149a8772c448cd170/Screenshot%202023-08-05%20at%2011.53.32.png)]
 
